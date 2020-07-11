@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Solution {
+  
   private static final int[] BASE_SCORES = {2, 3, 6, 7, 8};
 
   public static void main(String[] args) {
