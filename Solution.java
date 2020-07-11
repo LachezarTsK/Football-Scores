@@ -1,8 +1,6 @@
-package JavaJava.footballScores;
-
 import java.util.Scanner;
 
-public class Challenge {
+public class Solution {
   private static final int[] BASE_SCORES = {2, 3, 6, 7, 8};
 
   public static void main(String[] args) {
@@ -15,8 +13,8 @@ public class Challenge {
   }
 
   /**
-   * Calculates all possible ways to compose a score, by combining the given base scores, in
-   * American football.
+   * Calculates all possible ways to compose a score, by combining the given base scores, 
+   * in American football.
    *
    * @return An interger, representing all alternatives to compose the score, as described.
    */
